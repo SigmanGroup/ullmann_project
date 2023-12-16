@@ -4,6 +4,8 @@ Welcome to the Ullmann Project repository, a comprehensive resource for the rese
 
 For in-depth information, please consult our associated manuscript on [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6532eb5cc3693ca993c1ce40).
 
+Check out the Ullmann C–N coupling prediction tool derived from this work "CopperMap". Available [here](https://github.com/ljkaras/CopperMap).
+
 ## Contents
 
 - **computed_data.xlsx:** Excel file containing experimental yields and computed properties. Structural properties were computed at the wB97X-D/def2-TZVP level using Gaussian16.
